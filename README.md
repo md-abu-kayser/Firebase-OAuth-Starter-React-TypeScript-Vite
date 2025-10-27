@@ -1,4 +1,4 @@
-# Firebase Auth Demo — React + TypeScript + Vite + Tailwind
+# Firebase Auth Demo | React + TypeScript + Vite + Tailwind
 
 A minimal, production-ready demo that shows how to integrate Firebase Authentication (Google, GitHub, Microsoft, Twitter) into a React + TypeScript application scaffolded with Vite and styled with TailwindCSS. This repository is designed to be a clear reference implementation for OAuth sign-in flows and secure setup practices.
 
@@ -33,16 +33,16 @@ A minimal, production-ready demo that shows how to integrate Firebase Authentica
 - TailwindCSS ([tailwind.config.js](tailwind.config.js), [postcss.config.js](postcss.config.js))
 - Firebase v12 ([src/firebase.config.ts](src/firebase.config.ts))
 
-### How it works (high level)
+### How it works---> high level
 
 - UI and sign-in buttons: [src/App.tsx](src/App.tsx)
-- Firebase initialization & OAuth providers: [src/firebase.config.ts](src/firebase.config.ts)
+- Firebase initialization and OAuth providers: [src/firebase.config.ts](src/firebase.config.ts)
 - User shape: [`User`](src/types/user.ts)
 
-### Security & environment
+### Security and environment
 
 - The current repo includes a hard-coded Firebase config for demo purposes in [src/firebase.config.ts](src/firebase.config.ts). For production, move config values to environment variables and never commit secrets.
-- Recommended pattern:
+- **Recommended pattern:**
   - Use environment variables in Vite (VITE\_ prefix) and consume them in a secure build pipeline.
   - Keep server-side secrets off the client. Only public Firebase config values should be in the client.
 
@@ -56,13 +56,13 @@ A minimal, production-ready demo that shows how to integrate Firebase Authentica
 
 ### Key files
 
-- [src/App.tsx](src/App.tsx) — main UI, sign-in, sign-out flows.
-- [src/firebase.config.ts](src/firebase.config.ts) — Firebase initialization and provider setup.
-- [`User`](src/types/user.ts) — app user type definition.
-- [src/main.tsx](src/main.tsx) — app bootstrap.
-- [index.html](index.html) — Vite entry HTML.
-- [package.json](package.json) — scripts and dependencies.
-- [tailwind.config.js](tailwind.config.js), [postcss.config.js](postcss.config.js) — styling toolchain.
+- [src/App.tsx](src/App.tsx) - main UI, sign-in, sign-out flows.
+- [src/firebase.config.ts](src/firebase.config.ts) - Firebase initialization and provider setup.
+- [`User`](src/types/user.ts) - app user type definition.
+- [src/main.tsx](src/main.tsx) - app bootstrap.
+- [index.html](index.html) - Vite entry HTML.
+- [package.json](package.json) - scripts and dependencies.
+- [tailwind.config.js](tailwind.config.js), [postcss.config.js](postcss.config.js) - styling toolchain.
 
 ### Development commands
 
@@ -71,16 +71,16 @@ A minimal, production-ready demo that shows how to integrate Firebase Authentica
 - Preview production build locally: `npm run preview`
 - Lint: `npm run lint`
 
-### Contributing
+#### Contributing
 
 - Open issues and PRs are welcome.
 - Follow existing code style and TypeScript strictness.
 - Run linters before opening a PR: `npm run lint`.
 
-### License
+#### Project and Contact
 
-- ISC (see [package.json](package.json)).
+```
+git clone https://github.com/go-kawser/Firebase-OAuth-Starter-React-TypeScript-Vite.git
+```
 
-#### Contact
-
-- Project repository: https://github.com/Kawser420/google-gmail-github-X-auth
+**Email:** abu.kayser.official@gmail.com
