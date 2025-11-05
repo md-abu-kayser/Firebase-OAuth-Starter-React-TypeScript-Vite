@@ -1,4 +1,4 @@
-# Firebase Auth Demo | React + TypeScript + Vite + Tailwind
+# Firebase Auth Demo - React + TypeScript + Vite + Tailwind
 
 A minimal, production-ready demo that shows how to integrate Firebase Authentication (Google, GitHub, Microsoft, Twitter) into a React + TypeScript application scaffolded with Vite and styled with TailwindCSS. This repository is designed to be a clear reference implementation for OAuth sign-in flows and secure setup practices.
 
@@ -71,16 +71,38 @@ A minimal, production-ready demo that shows how to integrate Firebase Authentica
 - Preview production build locally: `npm run preview`
 - Lint: `npm run lint`
 
-#### Contributing
+### Contributing
 
 - Open issues and PRs are welcome.
 - Follow existing code style and TypeScript strictness.
 - Run linters before opening a PR: `npm run lint`.
 
-#### Project and Contact
+### Project
 
 ```
-git clone https://github.com/go-kawser/Firebase-OAuth-Starter-React-TypeScript-Vite.git
+git clone https://github.com/md-abu-kayser/Firebase-OAuth-Starter-React-TypeScript-Vite.git
 ```
 
-**Email:** abu.kayser.official@gmail.com
+### License
+
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
+
+---
+
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _Firebase-OAuth-Starter-React-TypeScript-Vite_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+**Thank you for reviewing this project!**
+
+---
