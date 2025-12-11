@@ -92,11 +92,11 @@ git clone https://github.com/md-abu-kayser/Firebase-OAuth-Starter-React-TypeScri
 
 ### Contact and Maintainer
 
-- **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
 - **Name:** Md Abu Kayser - Full-Stack Engineer
+- **Project:** _Firebase-OAuth-Starter-React-TypeScript-Vite_
+- **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
-- **Project:** _Firebase-OAuth-Starter-React-TypeScript-Vite_
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
