@@ -79,8 +79,9 @@ A minimal, production-ready demo that shows how to integrate Firebase Authentica
 
 ### Project
 
-```
-git clone https://github.com/md-abu-kayser/Firebase-OAuth-Starter-React-TypeScript-Vite.git
+```powershell
+git clone https://github.com/md-abu-kayser/react-firebase-oauth-starter.git
+
 ```
 
 ### License
