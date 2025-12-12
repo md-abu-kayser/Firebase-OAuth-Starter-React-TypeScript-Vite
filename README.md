@@ -93,7 +93,7 @@ git clone https://github.com/md-abu-kayser/Firebase-OAuth-Starter-React-TypeScri
 ### Contact and Maintainer
 
 - **Name:** Md Abu Kayser - Full-Stack Engineer
-- **Project:** _Firebase-OAuth-Starter-React-TypeScript-Vite_
+- **Project:** _react-firebase-oauth-starter_
 - **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
